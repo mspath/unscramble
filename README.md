@@ -3,7 +3,7 @@ Unscramble App
 
 This app is part of the [Android Basics in Kotlin] course from Google, see [Unit 3] [Pathway 3] and the [Store data in ViewModel] Codelab and the [Use LiveData with ViewModel] Codelab.
 
-Unscramble is  a single player game app that displays scrambled words. To play the game, player has to make a word using all the letters from the displayed scrambled word.
+Unscramble is a single player game app that displays scrambled words. To play the game, player has to make a word using all the letters from the displayed scrambled word.
 
 ----
 
@@ -17,10 +17,10 @@ Unscramble is  a single player game app that displays scrambled words. To play t
 
 Environment
 
-- Kotlin 1.4.32
-- Android Studio 4.1.3
-- Gradle Plugin 4.1.3
+- Kotlin 1.6.0
+- Android Studio Artic Fox
+- Gradle Plugin 7.0.3
 
 ----
 
-updated: 2021-04-13
+updated: 2021-11-18
