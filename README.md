@@ -17,10 +17,10 @@ Unscramble is a single player game app that displays scrambled words. To play th
 
 Environment
 
-- Kotlin 1.6.0
-- Android Studio Artic Fox
-- Gradle Plugin 7.0.3
+- Kotlin 1.6.10
+- Android Studio Bumblebee
+- Gradle Plugin 7.1
 
 ----
 
-updated: 2021-11-18
+updated: 2022-01-31
