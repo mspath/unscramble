@@ -14,9 +14,9 @@ Unscramble is a single player game app that displays scrambled words. To play th
 
 Environment
 
-- Kotlin 1.7.20
+- Kotlin 1.8.0
 - Android Studio Electric Eel 2022.1.1
-- Gradle Plugin 7.4.1
+- Gradle Plugin 7.4.2
 
 ---
 
@@ -24,5 +24,5 @@ Environment
 language: kotlin
 repo: unscramble
 status: archived
-updated: 2023-02-19
+updated: 2023-04-04
 ```
